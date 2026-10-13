@@ -1,6 +1,7 @@
 STUDENT GRADE AND ACTIVITY PROGRESS CHECKER
 Student: Ashanti P. Artista
 
+
 Valid input test:
 Score 1: 87.50
 Score 2: 92.00
