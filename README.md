@@ -28,4 +28,4 @@ dart run bin/week8_logic.dart
 The included `expected_output.txt` is a reference. Verify against your actual terminal output before submission.
 
 ## Submission
-Submit `bin/week8_logic.dart` or a GitHub repository link, depending on the instructor's directions.
+a GitHub repository link
