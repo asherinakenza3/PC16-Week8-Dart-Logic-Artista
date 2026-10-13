@@ -1,0 +1,13 @@
+STUDENT GRADE AND ACTIVITY PROGRESS CHECKER
+Student: Ashanti P. Artista
+
+Valid input test:
+Score 1: 87.50
+Score 2: 92.00
+Average grade: 89.75
+Activities completed: 8 of 10
+Result: Passed, but 2 activities remaining
+
+Invalid input test:
+Score 1: 87.50
+Input error: Invalid argument(s): Scores must be between 0 and 100.
