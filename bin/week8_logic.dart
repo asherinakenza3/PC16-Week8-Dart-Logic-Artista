@@ -1,4 +1,5 @@
 
+
 String checkStudentProgress(List<double> scores, int completed, int total) {
   if (scores.isEmpty) {
     throw ArgumentError('At least one score is required.');
