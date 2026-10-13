@@ -1,4 +1,4 @@
-# PC16 Week 8 — Dart Programming Fundamentals (Part 2)
+# PC16 Week 8  Dart Programming Fundamentals 
 
 **Student:** Ashanti P. Artista  
 **Course:** PC16 – Mobile Development with Lab  
