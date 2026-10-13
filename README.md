@@ -25,7 +25,7 @@ dart run bin/week8_logic.dart
 - Valid: scores 87.5 and 92, 8 out of 10 activities complete.
 - Invalid: score 120, which triggers a caught `ArgumentError`.
 
-The included `expected_output.txt` is a reference. Verify against your actual terminal output before submission.
+The included `output.txt` is a reference.
 
 ## Submission
 a GitHub repository link
